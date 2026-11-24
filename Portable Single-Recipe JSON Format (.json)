@@ -1,0 +1,15 @@
+{
+  "format": "rezeptor_single_recipe_v2",
+  "title": "Klassische Lasagne al Forno",
+  "description": "Deftige Lasagne mit langsam geschmorter Bolognese, feiner Béchamelsauce und goldbrauner Kruste.",
+  "category": "Hauptspeise",
+  "subCategory": "Auflauf & Pasta",
+  "prepTime": "45 Min",
+  "servings": "4",
+  "tags": "italienisch, auflauf, mealprep, deftig",
+  "isFavorite": true,
+  "rating": 5.0,
+  "imageUri": "",
+  "ingredients": "500 g Rinderhackfleisch\n1 Stück Zwiebel (fein gewürfelt)\n2 Zehen Knoblauch (gehackt)\n800 g stückige Tomaten\n2 EL Tomatenmark\n250 g Lasagneplatten\n50 g Butter\n50 g Weizenmehl\n500 ml Milch\n200 g geriebener Mozzarella\n1 Prise Muskatnuss\nSalz und Pfeffer",
+  "instructions": "1. Den Backofen auf 180 °C Ober-/Unterhitze vorheizen.\n2. Zwiebel und Knoblauch in etwas Olivenöl anschwitzen, Hackfleisch dazugeben und kräftig anbraten.\n3. Tomatenmark und stückige Tomaten einrühren, mit Salz und Pfeffer würzen und 20 Minuten sanft köcheln lassen.\n4. Für die Béchamel die Butter schmelzen, Mehl einrühren und unter ständigem Rühren mit Milch aufgießen, bis eine sämige Sauce entsteht. Mit Muskat abschmecken.\n5. In einer Auflaufform abwechselnd Bolognese, Lasagneplatten und Béchamel schichten. Mit Mozzarella abschließen.\n6. Im Ofen ca. 35–40 Minuten goldbraun überbacken."
+}
